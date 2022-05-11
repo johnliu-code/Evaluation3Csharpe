@@ -1,0 +1,16 @@
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.exe
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.deps.json
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.runtimeconfig.json
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.runtimeconfig.dev.json
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.dll
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\bin\Debug\net5.0\Evaluation3_Yongjiang.pdb
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.csproj.AssemblyReference.cache
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.AssemblyInfoInputs.cache
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.AssemblyInfo.cs
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.csproj.CoreCompileInputs.cache
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.dll
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\refint\Evaluation3_Yongjiang.dll
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.pdb
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\Evaluation3_Yongjiang.genruntimeconfig.cache
+C:\Users\atdig\source\repos\Evaluation3_Yongjiang\Evaluation3_Yongjiang\obj\Debug\net5.0\ref\Evaluation3_Yongjiang.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Evaluation3_Yongjiang/1.0.0": {
+        "runtime": {
+          "Evaluation3_Yongjiang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluation3_Yongjiang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
